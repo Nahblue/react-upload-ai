@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Aplicação que possibilita realizar upload de videos e por meio de IA, criar automaticamente títulos chamativos e descrições com um boa indexação.
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://react-upload-ai.vercel.app/)
 - [Github da Rocketseat](https://github.com/rocketseat-education/nlw-ai-mastery)
 
 ## :memo: Licença
